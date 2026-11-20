@@ -16,3 +16,6 @@ models/
 results/
 *.keras
 *.tflite
+
+# Windows
+desktop.ini
